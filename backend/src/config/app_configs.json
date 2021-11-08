@@ -1,0 +1,6 @@
+{
+  "jwtSecrete": "test",
+  "defaultAccountId": 14,
+  "deviceProviderURL": "https://mymusicstream/",
+  "apiKey" : ""
+}
